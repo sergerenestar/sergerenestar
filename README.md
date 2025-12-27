@@ -69,7 +69,7 @@ Each project includes:
 
 ## 📫 Let’s Connect
 - 💼 LinkedIn: https://www.linkedin.com/in/<your-link>
-- 📧 Email: your.email@example.com
+- 📧 Email: serge.rene.anaba.eteme.vz@gmail.com
 - 🎥 YouTube: https://www.youtube.com/@<your-channel>
 
 ---
